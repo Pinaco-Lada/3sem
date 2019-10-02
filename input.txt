@@ -1,0 +1,5 @@
+4
+1 ls -la
+2 pwd
+3 echo Hello, World!
+4 ./hello_world
